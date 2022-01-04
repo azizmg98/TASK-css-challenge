@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(71, 3, 71);
+}
+
+.cover-img {
+    border-radius: 5%;
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+/*text allign: center; didn't work in .cover-img*/
+
+p{
+    text-align: center;
+    color: white;
+}
+.title {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Moon Dance', cursive;
+}
